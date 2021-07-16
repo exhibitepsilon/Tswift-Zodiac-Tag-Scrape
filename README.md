@@ -1,6 +1,6 @@
 # Tswift-Zodiac-Tag-Scrape
 
-Tumblr's API won't let you get more than 50 notes -_-
+Tumblr's API won't let you get more than the first 50 notes -_-
 
 To get Tags:
 
